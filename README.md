@@ -21,9 +21,10 @@ All implementations are developed in **Python**, following a modular structure. 
 Each assignment or project is organized in a separate folder under the main `GNSS` directory, following a clear and modular layout.
 
 ## Author
-**Z. Ceren Vermez**  
+**Z. Ceren Erdem**  
 Hacettepe University – Geomatics Engineering  
-Student ID: 2200674062
+
 
 ## License
 This repository is intended for **educational and academic purposes** only.
+
